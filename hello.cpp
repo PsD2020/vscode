@@ -11,6 +11,8 @@ int main()
         sum+=i;
     }
     cout<<sum<<endl;
+    
+    cout<<"this is my first code in github"<<endl;
     system("pause");
     
     return 0;
